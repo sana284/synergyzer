@@ -1,0 +1,148 @@
+
+body {
+    background-color: #100d1c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #ccc;
+    letter-spacing: 0.2px;
+}
+
+#page-wrap{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#header{
+    height: 180px;
+    margin-bottom: 10px;
+}
+.logo {
+    padding-top: 72px;
+    margin-bottom: 10px;
+}
+.top-nav ul li {
+    float: left;
+   margin-right: 20px;
+}
+.top-nav ul li a {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.top-nav ul li a:hover {
+    color: #d71400;
+}
+
+#main-content{
+    margin-bottom: 365px;
+}
+
+#left-content {
+ width: 663px;
+ float: left;
+}
+.page-info h1{
+    color: #d71400;
+    font-size: 50px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.page-info p{
+    font-size: 18px;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+.posters ul li{
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#sidebar{
+ 
+    width: 310px;
+    float: right;
+}
+.sneak-preview , .ads{
+    margin-bottom: 10px;
+}
+.ads-1{
+    width: 150px;
+    float: left;
+}
+.ads-2{
+    width: 150px;
+    float: right;
+}
+
+#footer-col-one{
+    width: 315px;
+    float: left;
+    margin-right: 25px;
+}
+
+#footer-col-two{
+    width: 315px;
+    float: left;
+}
+
+.footer-info h2{
+    color: #fff;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.footer-info span{
+    color: #d71400;
+}
+.footer-info h3 {
+    color: #d71400;
+    font-size: 22px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+.footer-info p.datetime {
+    color: #8e8e8e;
+    margin-bottom: 10px;
+}
+
+.footer-info p {
+    font-size: 16px;
+    color: #fff;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-info p a {
+    color: #d71400;
+    text-decoration: none;
+}
+
+.footer-info p a:hover {
+    text-decoration: underline;
+}
+#footer-col-three{
+   
+    width: 315px;
+    float: right;
+   
+}
+.footer-nav ul li {
+    margin-bottom: 10px;
+}
+.footer-nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.footer-nav ul li a:hover {
+    color: #d71400;
+}
+
+.copyrights p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: #8e8e8e;
+    font-size: 15px;
+}
