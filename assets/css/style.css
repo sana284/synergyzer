@@ -10,6 +10,7 @@ body {
 #page-wrap{
     width: 1000px;
     margin: 0 auto;
+    /* background-color: pink; */
 }
 
 #header{
@@ -40,7 +41,7 @@ body {
 }
 
 #left-content {
- width: 659px;
+ width: 700px;
  float: left;
 }
 .page-info h1{
@@ -61,7 +62,7 @@ body {
 }
 #sidebar{
  
-    width: 310px;
+    width: 300px;
     float: right;
 }
 .sneak-preview , .ads{
